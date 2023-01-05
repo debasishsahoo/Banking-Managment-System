@@ -1,0 +1,77 @@
+page =>index page =>bank page
+
+login => Bank admin,Customer,Branch
+
+Bank Admin 
+-------------------------
+Can Add Edit Delete Branch 
+Can View Branch Details
+Can View Customer List and Details of the Customer,
+Can Block Customer and Branch
+Can Approve Loan Account based on there Balance
+Can View there Loan Submit Details
+
+pages
+---------------------------
+Branch Add/Edit Form 
+Table View for Branch List
+Profile Page for Branch Details
+
+
+
+
+Bank Branch
+-----------------------
+Can Add,block Customer 
+Can View Customer List and Details of the Customer,
+Can View All the Lone Request List and there Details
+Can Approve Loan Account based on there Balance
+Can View there Loan Submit Details
+
+pages
+---------------------------
+Customer Add Form 
+Table View for Customer List
+Table View for Loan Request List and there Details
+Profile Page for Customer Details
+Branch can Edit Own Profile Details
+
+
+
+Bank Customer
+-----------------------
+Can Register,login,Edit own Profile 
+Can View Transaction List and Details of the Transaction,
+Can View Balance of Different type of Account 
+Can Request Loan to Branch
+Can View there Loan Request Status
+
+
+Can send Money to other's Account in the Same Branch and Deposit Money
+
+pages
+---------------------------
+Customer Registration,login,profile update Form 
+Table View for Transaction List
+Profile Page for Customer Details
+Transaction Details Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
